@@ -1,0 +1,19 @@
+.headercontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+li{
+    list-style-type: none;
+    margin: 10px;
+    font-weight: 600;
+}
+.listcontainer{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.user{
+    height: 60px;
+    width: 90px;
+}

@@ -1,0 +1,108 @@
+.maincontainer{
+    height: 100vh;
+    background-size: cover;
+    overflow-y: scroll;
+    scrollbar-color: grey;
+}
+.icon{
+    height: 60px;
+    width: 100px;
+    margin: 10px;
+}
+.HomeContainer{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    width: 700px;
+    background-color:antiquewhite;
+
+    margin:10px
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+}
+.simg{
+    height: 350px;
+    width: 400px;
+    margin: 10px;
+}
+.info{
+    margin: 10px;
+}
+.para{
+    font-weight: 400;
+}
+.i{
+    display: flex;
+    flex-direction: row;
+    
+}
+h4{
+    margin: 10px;
+}
+.bookbtn{
+    height: 40px;
+    width: 100px;
+    background-color:blue;
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.userinfo{
+    display: flex;
+    flex-direction: row;
+
+    height: 200px;
+    width: 260pxpx;
+    background-color: #fff;
+    
+}
+.paras{
+    text-align: justify;
+}
+.userdes{
+    display: flex;
+    flex-direction: column;
+}
+.simgs{
+    height: 400px;
+    width: 380px;
+}
+.imagecon{
+    display: flex;
+    flex-direction: column;
+    
+}
+.userinfoc{
+    display: flex;
+    flex-direction: row;
+}
+.descriptioncontainer{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.wifi{
+    height: 50px;
+    width: 70px;
+}
+.serviceinfoimcards{
+    height: 200x;
+    width:450px ;
+    box-shadow: 10px 10px 8px 10px #888888;
+    margin: 10px;
+}
+.food{
+    height: 100px;
+    width: 120px;
+}
+.servicecards{
+    display: flex;
+    flex-direction: row;
+}
+.footer{
+    height: 200px;
+    background-size: cover;
+    background-color:grey;
+}
